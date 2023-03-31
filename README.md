@@ -1,6 +1,6 @@
 # LEGO_EV3_micropython_and_Arduino
 
-El sistema operativo proporcionado por LEGO, se basa en una versión aprobada por LEGO del sistema operativo ev3dev.
+El sistema operativo proporcionado por LEGO, se basa en una versión aprobada por LEGO del sistema operativo ev3dev. (https://www.ev3dev.org/downloads/)
 
 ## ¿Como leer el proceso de boot del LEGO ev3?
 Se puede crear un cable para conectarlo directamente al PC y así poder ver el proceso de boot. (3v3 TTL UART)
