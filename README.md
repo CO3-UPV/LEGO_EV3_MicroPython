@@ -9,6 +9,7 @@ Se puede crear un cable para conectarlo directamente al PC y así poder ver el p
 ### Consideraciones de Visual Studio Code
 
 Se ha preparado una versión portable con los paquetes necesarios y vuelto a comprimir dividio en partes para poder ser subido al repositorio.
+- https://code.visualstudio.com/docs/editor/portable
 
 ### Links
 - https://pybricks.com/ev3-micropython/index.html
