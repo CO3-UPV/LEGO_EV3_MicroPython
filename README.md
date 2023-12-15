@@ -32,23 +32,23 @@ Es muy cómodo programarlo con VSCode.
 - La versión de EV3 generada por los EV3Dev -> ev3dev-stretch-ev3-generic-2020-04-10
 - La versión de EV3 generada por LEGO -> ev3micropythonv200sdcardimage
 
-## Véase todos los docs sino hay alguna página disponible
-
 ## ESPECIAL comunicación WiFi
 
 COMUNICATION WIFI CON LEGO EV3
-https://coolplaydev.com/socket-on-mindstorms-ev3 (Backup visual .pdf en docs)
-https://pybricks.com/install/mindstorms-ev3/installation/
+- https://coolplaydev.com/socket-on-mindstorms-ev3
+- https://pybricks.com/install/mindstorms-ev3/installation/
 
 ### Además de ejemplos con MQTT
 
 https://www.ev3dev.org/docs/tutorials/sending-and-receiving-messages-with-mqtt/
 
+## Véase todos los docs sino hay alguna página disponible, hay muchas copias de seguridad
+
 ## Links
 - https://pybricks.com/ev3-micropython/index.html
 - https://www.ev3dev.org/  
 - https://www.ev3dev.org/docs/tutorials/
-- https://www.ev3dev.org/downloads/ (Backup visual .pdf en docs)
-- http://botbench.com/blog/2013/08/15/ev3-creating-console-cable/ (Backup visual .pdf en docs)
-- https://education.lego.com/en-us/product-resources/mindstorms-ev3/teacher-resources/python-for-ev3/ (Backup visual .pdf en docs)
+- https://www.ev3dev.org/downloads/
+- http://botbench.com/blog/2013/08/15/ev3-creating-console-cable/ 
+- https://education.lego.com/en-us/product-resources/mindstorms-ev3/teacher-resources/python-for-ev3/
 - https://github.com/ev3dev/lego-linux-drivers/tree/ev3dev-stretch
