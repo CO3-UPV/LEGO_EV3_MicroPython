@@ -1,4 +1,4 @@
-# LEGO EV3 programarlo con micropython
+# LEGO EV3 programarlo con MicroPython
 
 Objetivo: 
 - Expandir las capacidades del LEGO EV3 con un cable UART. 
