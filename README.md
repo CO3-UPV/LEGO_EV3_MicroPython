@@ -1,7 +1,9 @@
 # LEGO EV3 programarlo con MicroPython
 
+NOTA PRINCIPAL: Este el proceso que he seguido para poder utilizar el robot LEGO EV3 con MicroPython, ya tiene preparado un cable UART y la SD instalada en uno de los robots.
+
 Objetivo: 
-- Expandir las capacidades del LEGO EV3 con un cable UART. 
+- Expandir las capacidades del LEGO EV3 con un cable UART. Con este cable podemos controlar el robot con un Arduino o Raspberry, siempre y cuando podemos montarlo en el robot. 
 - Programar LEGO EV3 utilizando Python, específicamente MicroPython.
 
 ## Es necesario instalar un sistema operativo en una SD
