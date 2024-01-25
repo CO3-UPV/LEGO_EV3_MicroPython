@@ -4,7 +4,7 @@ NOTA PRINCIPAL: Este el proceso que he seguido para poder utilizar el robot LEGO
 
 Objetivo: 
 - Expandir las capacidades del LEGO EV3 con un cable UART. Con este cable podemos controlar el robot con un Arduino o Raspberry, siempre y cuando podemos montarlo en el robot. 
-- Programar LEGO EV3 utilizando Python, específicamente MicroPython.
+- Programar LEGO EV3 utilizando Python, específicamente MicroPython. Se puede cargar y descargar el código al robot via USB o WiFi mediante SSH con el editor de Visual Studio Code.
 
 ## Es necesario instalar un sistema operativo en una SD
 
